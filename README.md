@@ -30,28 +30,23 @@ clustering.ipynb file
 
  ## 📦 Repo structure
  ```
-├── cleaned_data/
+.
+├── BankChurners.csv
+├── Maarten
+│   └── maarten.ipynb
+├── Main
+│   ├── classifiying.ipynb
+│   └── clustering.ipynb
+├── README.md
+├── cleaned_data
 │   ├── cleaned_data.csv
 │   └── fixed_data.ipynb
-├── Maarten/
-│   ├── maarten.ipynb
-| 
-├── Main/
-│   |── classifiying.ipynb
-|   └── clustering.ipynb
-├── Muntadher/
-│   └── test.ipynb
-|  
-├── Yeliz/
-│   |── yeliz_classf.ipynb
-│   └── yeliz_clus.ipynb
-│    
-├── Yusra/
-│   ├── CC(dataanalysis).ipynb
-│   └── Creditcard-kmeans.ipynb
-|   
-├── BankChurners.csv
-└── README.md
+├── image-1.png
+├── image-2.png
+├── image-3.png
+├── image-4.png
+└── image.png
+
 ```
  ## Visuals
 
