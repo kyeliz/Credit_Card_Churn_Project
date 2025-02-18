@@ -32,8 +32,6 @@ clustering.ipynb file
  ```
 .
 ├── BankChurners.csv
-├── Maarten
-│   └── maarten.ipynb
 ├── Main
 │   ├── classifiying.ipynb
 │   └── clustering.ipynb
@@ -46,6 +44,7 @@ clustering.ipynb file
 ├── image-3.png
 ├── image-4.png
 └── image.png
+
 
 ```
  ## Visuals
